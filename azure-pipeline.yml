@@ -1,5 +1,5 @@
 pool:
-  vmimage: ubuntu-16.04
+  vmimage: ubuntu-18.04
 
 steps:
 - task: Maven@3
